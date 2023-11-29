@@ -2,7 +2,7 @@
 name = "rs_lib"
 version = "0.1.0"
 authors = ["Timon Klinkert <DenuxPlays@users.noreply.github.com>"]
-description = "A template for creating Rust libraries"
+description = "A template for creating Rust libraries."
 license = "Apache-2.0"
 repository = "https://github.com/DenuxPlays/rs_lib"
 homepage = "https://github.com/DenuxPlays/rs_lib"
